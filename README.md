@@ -77,7 +77,7 @@ grunt.initConfig({
 ```
 ### options
 
-- `testFW`: the test suite for shich SpeckJS will build.
+- `testFW`: the test suite for which SpeckJS will build.
 - `specName`: the file name output of the spec files `<originalfilename><specName>.js`
 - `logs`: output on console success/error messages
 
